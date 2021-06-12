@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Natonator
+- 👀 I’m interested in personal automation and useful every day tools
+- 🌱 I’m currently learning Net Core and React
